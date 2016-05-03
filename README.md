@@ -1,2 +1,2 @@
 # Hello-World
-A dummy repository
+A dummy repository from master branch.
